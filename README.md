@@ -9,6 +9,26 @@ to a subagent rehearsal — not unlikely, *impossible*.
 
 日本語版：[README.ja.md](README.ja.md)
 
+## Use it now
+
+Paste this into your `CLAUDE.md` or `AGENTS.md`:
+
+```markdown
+## Rehearsing with subagents
+- Before trusting a subagent rehearsal, ask of each failure you care about: "Does it appear by something stopping?"
+  (waiting for permission or approval, cost, no window appearing, two sessions with the same name, transcript not saved)
+- If yes, a clean rehearsal says nothing about it. Test that part with a real session.
+- Use rehearsals for content: the order of steps, ambiguous instructions, overlapping roles.
+```
+
+Then:
+
+1. List the failures you care about before the real run.
+2. Mark the ones that appear by something stopping.
+3. Run only those for real; rehearse the rest.
+
+That is all. The evidence and the limits are below.
+
 ---
 
 ## The problem
