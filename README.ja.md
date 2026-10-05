@@ -101,4 +101,6 @@ English: [README.md](README.md)
 
 ## ライセンス
 
-MIT。
+MIT。自由に使い、直し、組み込んでかまいません。そのときは、作者名（Rurimpa）とこの置き場のアドレスを残してください。MIT ライセンスそのものが、[LICENSE](LICENSE) に書かれた作者の表示を、写したものすべてに残すことを求めています。
+
+作者：Rurimpa（https://github.com/Rurimpa）
